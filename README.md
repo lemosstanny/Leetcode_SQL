@@ -1,3 +1,8 @@
 # Leetcode_SQL
- SQL Leetcode problems
 
+All Unpaid SQL Leetcode problems
+
+Thank you for your view.
+
+Best,
+Stanny
